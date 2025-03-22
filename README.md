@@ -1,0 +1,2 @@
+# Farisa-Hameed-Customer-Churn-Prediction-Using-Machine-Learning
+This project predicts customer churn using machine learning with feature selection, SMOTE for class imbalance, and ensemble models like stacking and voting classifiers. It optimizes hyperparameters with Bayesian search and evaluates models using accuracy, classification reports, and ROC curves to ensure high performance and reliability. 
